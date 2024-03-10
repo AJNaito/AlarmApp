@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="AlarmDefault">99:99 AM</string>
+    <string name="DayDefault"> M,T,W,Th,F,Sat,Sun </string>
+    <string name="TimeZoneDefault">PST</string>
+    <string name="ButtonDesc">Click To Add New Alarm</string>
+    <string name="Sunday">Sun</string>
+    <string name="Saturday">Sat</string>
+    <string name="Friday">Fri</string>
+    <string name="Thursday">Thu</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Tuesday">Tues</string>
+    <string name="Monday">Mon</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Save">Save</string>
+    <string name="TimeLabel">Current Time Zone:</string>
+    <string name="Divider">:</string>
+
+    <string-array name="TimeZones">
+        <item>HST</item>
+        <item>PST</item>
+        <item>MST</item>
+        <item>EST</item>
+        <item>GMT</item>
+        <item>CET</item>
+        <item>MSK</item>
+        <item>IST</item>
+        <item>CST</item>
+        <item>JST</item>
+        <item>AEDT</item>
+        <item>NZDT</item>
+    </string-array>
+
+    <string-array name="AMPM">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
